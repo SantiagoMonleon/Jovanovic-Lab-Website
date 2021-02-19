@@ -1,7 +1,11 @@
 import React from 'react';
 
+import ImageBox from './components/ImgBox';
+
 const Home = () => {
-    return <h1>Home works!</h1>
+    return (
+        <ImageBox />
+    );
 }
 
 export default Home;

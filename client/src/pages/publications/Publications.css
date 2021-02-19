@@ -1,0 +1,17 @@
+.pub-holder {
+    border-collapse: collapse;
+}
+
+h3 {
+    font-weight: 550;
+    font-size: 100%;
+}
+
+h4 {
+    font-weight: 300;
+}
+
+h4 strong {
+    font-weight: 480;
+}
+

@@ -1,0 +1,13 @@
+.image-holder {
+    float: left;
+    width: 30%;
+    margin: 0;
+    padding: 5px;
+}
+
+.image-holder-img {
+    height: auto;
+    width: 90%;
+    object-fit: contain;
+    position: relative
+}

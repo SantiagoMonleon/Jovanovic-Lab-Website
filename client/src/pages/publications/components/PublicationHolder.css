@@ -1,0 +1,13 @@
+.pubs-holder {
+    margin-top: 10px;
+    padding-top: 20px;
+    height: 100%;
+    width: 75%;
+    margin: auto;
+}
+
+@media (min-width: 532) {
+    .pubs-holder {
+        width: 90%
+    }
+}

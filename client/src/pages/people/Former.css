@@ -1,0 +1,23 @@
+.former-container {
+    margin-top: 10px;
+    padding-top: 20px;
+    height: 100%;
+    width: 75%;
+    margin: auto;
+}
+
+.former-container table {
+    border-collapse: collapse;
+    width: 97%;
+    margin-bottom: 20px;
+}
+
+.former-container td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.former-container tr:nth-child(even) {
+    background-color: #dddddd;
+}

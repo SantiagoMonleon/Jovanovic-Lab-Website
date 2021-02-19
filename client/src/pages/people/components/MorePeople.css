@@ -1,0 +1,18 @@
+.former-btn {
+    font-weight: 350;
+    font-size: 120%;
+    font: "Courier New (monospace)";
+    color: 	#505050;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #505050;
+    border-radius: 5px;
+    padding: 2px 4px 2px 4px;
+    background-color: #E8E8E8;
+}
+
+.expand-retract:hover {
+    color: #A9A9A9;
+    cursor: pointer;
+}

@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "http://jovanovic.s3-website-us-west-2.amazonaws.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,8 +9,11 @@
     "@testing-library/user-event": "^12.6.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-html-parser": "^2.0.2",
+    "react-icons": "^4.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "react-show-more-text": "^1.4.6",
     "react-transition-group": "^4.4.1",
     "web-vitals": "^0.2.4"
   },
