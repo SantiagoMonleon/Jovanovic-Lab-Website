@@ -1,0 +1,20 @@
+.research-holder {
+    margin-top: 10px;
+    padding-top: 20px;
+    height: 100%;
+    width: 80%;
+    margin: auto;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #333, #ccc);
+}

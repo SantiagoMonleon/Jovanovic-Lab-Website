@@ -1,0 +1,42 @@
+.desc-holder {
+    float: right;
+    width: 70%;
+    margin: 0;
+    padding: 5px;
+}
+
+.desc-fade {
+    -webkit-mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+    mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+    height: 100%;
+}
+
+.desc-nofade {
+    height: 100%;
+}
+
+.spacing {
+    height: 20px;
+}
+
+
+.desc-holder h2 {
+    font-weight: 400;
+}
+
+.desc-holder h3 {
+    font-weight: 300;
+}
+
+.expand-retract {
+    font-weight: 250;
+    font-size: 80%;
+    font: "Courier New (monospace)";
+    color: 	#505050;
+    text-align: center;
+}
+
+.expand-retract:hover {
+    color: #A9A9A9;
+    cursor: pointer;
+}
